@@ -1,9 +1,9 @@
 # PChome-search
 https://shopping.pchome.com.tw/
 
-data裝載資料
+- data裝載資料
 1. keyword used: 使用者所打的關鍵字 (ex:NBA球衣)
-2. # of SKU: 關鍵字的產品總數
+2. "# of SKU": 關鍵字的產品總數
 3. Page: 產品位於第幾頁
 4. Description: 產品說明
 5. PrdCode: 產品ID
